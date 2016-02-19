@@ -1,0 +1,538 @@
+sys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbin/os161testerprog 
+p /testbin/os161testerprog 
+before switch 0
+before switch 1
+before define region i=1
+NUMBER OF PAGES IS 1 
+defined region 1
+before switch 2
+before define region i=2
+NUMBER OF PAGES IS 2 
+OUT OF THE LOOP
+defined region 2
+Running program /testbin/os161testerprog failed: Bad memory address
+Operation took 0.084824840 seconds
+Total Free Frame: 77
+OS/161 kernel [? for menu]: sys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbin/os161testerprog 
+p /testbin/os161testerprog 
+before switch 0
+before switch 1
+before define region i=1
+NUMBER OF PAGES IS 2 
+defined region 1
+before switch 2
+before define region i=2
+NUMBER OF PAGES IS 1 
+OUT OF THE LOOP
+defined region 2
+Running program /testbin/os161testerprog failed: Bad memory address
+Operation took 0.084833360 seconds
+Total Free Frame: 77
+OS/161 kernel [? for menu]: sys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbin/os161testerprog 2 3
+p /testbin/os161testerprog 2 3
+before switch 0
+before switch 1
+before define region i=1
+NUMBER OF PAGES IS 2 
+defined region 1
+before switch 2
+before define region i=2
+NUMBER OF PAGES IS 1 
+OUT OF THE LOOP
+defined region 2
+Running program /testbin/os161testerprog failed: Bad memory address
+Operation took 0.085070360 seconds
+Total Free Frame: 77
+OS/161 kernel [? for menu]: sys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbinsys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbin/sys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbin/os161tesys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbisys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbin/sys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbsys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbin/osys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbin/sys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbinsys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbin/os161testerprog o
+p /testbin/os161testerprog o
+before switch 0
+before switch 1
+before define region i=1
+NUMBER OF PAGES IS 2 
+defined region 1
+before switch 2
+before define region i=2
+NUMBER OF PAGES IS 1 
+OUT OF THE LOOP
+defined region 2
+Running program /testbin/os161testerprog failed: Bad memory address
+Operation took 0.084937840 seconds
+Total Free Frame: 77
+OS/161 kernel [? for menu]: sys161: System/161 release 1.14, compiled Sep 11 2012 06:05:16
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+os-004's system version 0 (ASST3 #16)
+
+Cpu is MIPS r2000/r3000
+332k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+total 77 of frames
+ramstart = 32000, ramend = 80000
+coremap[0] = 80032000
+paddrStart = 33000
+coremap initailized
+Hello World
+Total Free Frame: 77
+OS/161 kernel [? for menu]: p /testbin/os161testerprog 
+p /testbin/os161testerprog 
+before switch 0
+before switch 1
+before define region i=1
+NUMBER OF PAGES IS 2 
+defined region 1
+before switch 2
+before define region i=2
+NUMBER OF PAGES IS 1 
+OUT OF THE LOOP
+defined region 2
+Running program /testbin/os161testerprog failed: Bad memory address
+Operation took 0.084735840 seconds
+Total Free Frame: 77
+OS/161 kernel [? for menu]: 

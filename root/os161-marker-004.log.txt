@@ -1,0 +1,2 @@
+Checking out repo for os-004
+~/ece344/root ~/ece344/root
